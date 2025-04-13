@@ -2,7 +2,7 @@
 
 🧠 Computer Science Student at VIT Bhopal University<br/>
 🤖 Specializing in Artificial Intelligence and Machine Learning<br/>
-👨🏻‍💻 I'm tech enthusiast looking forward to explore more and more<br/>
+👨🏻‍💻 I'm a tech enthusiast looking forward to explore more and more<br/>
 
 
 ## 🌐 Socials:
